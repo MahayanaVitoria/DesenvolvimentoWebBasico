@@ -1,0 +1,74 @@
+.container-clearflix{
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    display: inline;
+}
+
+header{
+    display: flex;
+}
+
+.designdigital{
+    display: flex;
+    margin-left: 80px;
+    padding: 20px;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 50px;
+}
+ul{
+    text-align: right;
+    margin-left: 350px;
+    margin-top: 45px;
+}
+a{
+    text-decoration: none;
+    color: rgb(184, 179, 179);
+    font-weight: bold;
+}
+.depoimentos{
+    color: #8bdaf5;
+    margin-left: 10px;
+}
+h1{
+    margin-left: 10px;
+}
+
+.caixa{
+    background-color:rgba(0,0,0,0.5);
+    color: white;
+    position: absolute;
+    text-align: left;
+    padding: 15px;
+    top: 26%;
+    margin-left: 104px;
+    width: 450px;
+}
+
+section{
+    display: flex;
+    margin-left: 85px;
+    margin-top: 30px;
+}
+article{
+    text-align: left;
+}
+.imagens{
+    width: 260px;
+    text-align: center;
+    padding: 15px;
+}
+h3{
+    margin-left: 15px;
+}
+h4{
+    margin-left: 15px;
+}
+
+footer{
+    text-align: left;
+    margin-left: 100px;
+}
