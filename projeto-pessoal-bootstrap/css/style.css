@@ -1,0 +1,118 @@
+/* top width 100%
+height 370px-
+position relative
+padding-top 0- */
+/* foto perfil / atividades / curriculo
+float right ou left 
+width 33.33%*/
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    background-color: black;
+    margin: 0;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    padding: 40px 40px 10px 40px;
+}
+
+.quadros{
+    width: 100%;
+}
+
+article{
+
+}
+article li{
+    margin-bottom: 25px;
+}
+article a{
+    text-decoration: none;
+    color: inherit;
+}
+.quadros-baixo article{
+    width: 30%;
+    display: inline-block;
+}
+.quadros-topo, .quadros-baixo{
+    width: 100%;
+}
+
+.quadros-topo article{
+    width: 33%;
+    display: inline-block;
+    text-align: justify;
+}
+
+
+
+/* IMAGENS */
+/* .quadros-topo img, .quadros-baixo img{
+    width: 50px;
+}
+article .foto-perfil{
+    width: 260px;
+    border-radius: 100%;
+    margin-left: 75px;
+}
+article .vetorlog{
+    width: 90px;
+}
+
+footer{
+    text-align: center;
+}
+footer img{
+    width: 30px;
+    margin-left: 15px;
+} */
+
+/* TEXTO */
+/* .experiencia h3{
+    margin-bottom: 40px;
+}
+.quadros h2{
+    text-align: center;
+    margin-right: 30px;
+}
+.quadros-baixo h3{
+    padding-right: 35px;
+    text-align: justify;
+}
+.sobre-texto{
+    line-height: 1.62;
+}
+.formacao div{
+    line-height: 33.7px;
+}
+article:last-child{
+    padding-right: 0px;
+}
+.hobbies{
+    line-height: 75px;
+    padding-left: 100px;
+}
+.hobbies h2{
+    margin-right: 100px;
+}
+
+.experiencia{
+    color: #fa80b1
+}
+.atividades{
+    color: #6794af;
+}
+a:hover{
+    color: #123747;
+}
+.hobbies{
+    color: #f5883a;
+}
+.nome{
+    color: #e8dee4;
+}
+.sobre{
+    color: #d02773;
+
+}
+.formacao{
+    color: #1a6a90;
+} */
